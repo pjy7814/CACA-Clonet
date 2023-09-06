@@ -15,6 +15,9 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 
+## Architecture
+![Architecture](https://github.com/pjy7814/CACA-Clonet/assets/79956705/6782b951-78f5-4cdd-ad69-2b18e09477a5)
+
 
 ## Link
 #### 📎 [Trello](https://trello.com/b/0S6KfZjD/caca)
